@@ -1,6 +1,9 @@
 **Identitas mahasiswa:**
+
 **Nama: Jefri Al Bukhori**
+
 **NIM: 241401142**
+
 **Lab: Pemrograman Web 2**
 
 **Informasi Aplikasi:**
