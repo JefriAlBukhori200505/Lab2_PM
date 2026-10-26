@@ -26,10 +26,16 @@ skor akhir atas nama pengguna tersebut. Aplikasi ini dibuat sebagai tugas UTS La
 
 **Progress bar dan penghitung soal: menampilkan kemajuan pengerjaan dan jumlah jawaban benar.**
 
-**Halaman Skor Akhir: menampilkan skor (0-100), jumlah jawaban benar dan salah, serta pesan sesuai hasil.
-Main Lagi: mengulang kuis dengan urutan soal yang diacak.
-Dual Theme: mendukung Dark Mode dan Light Mode yang bisa diganti kapan saja lewat tombol tema.
-State management (Provider): progres jawaban dan tema tidak hilang saat layar diputar atau berpindah halaman.
-Tampilan responsif: ukuran elemen menyesuaikan layar, dan pilihan jawaban menjadi 2 kolom pada layar lebar (tablet atau web).
-Font kustom: menggunakan font Poppins.
-Navigasi antar-halaman: Login, Kuis, dan Skor Akhir, dengan dialog konfirmasi saat keluar dari kuis.**
+**Halaman Skor Akhir: menampilkan skor (0-100), jumlah jawaban benar dan salah, serta pesan sesuai hasil.**
+
+**Main Lagi: mengulang kuis dengan urutan soal yang diacak.**
+
+**Dual Theme: mendukung Dark Mode dan Light Mode yang bisa diganti kapan saja lewat tombol tema.**
+
+**State management (Provider): progres jawaban dan tema tidak hilang saat layar diputar atau berpindah halaman.**
+
+**Tampilan responsif: ukuran elemen menyesuaikan layar, dan pilihan jawaban menjadi 2 kolom pada layar lebar (tablet atau web).**
+
+**Font kustom: menggunakan font Poppins.**
+
+**Navigasi antar-halaman: Login, Kuis, dan Skor Akhir, dengan dialog konfirmasi saat keluar dari kuis.**
